@@ -3,9 +3,13 @@
 # dependencies
 /node_modules
 /backend/node_modules
+/frontend/node_modules
 /.pnp
 /backend/.pnp
+/frontend/.pnp
 .pnp.js
+/backend/.pnp.js
+/frontend/.pnp.js
 
 # testing
 /coverage
@@ -14,11 +18,14 @@
 /.next/
 /out/
 /backend/.next/
+/frontend/.next/
 /backend/out/
+/frontend/out/
 
 # production
 /build
 /backend/build
+/frontend/build
 
 # misc
 .DS_Store
@@ -34,6 +41,8 @@ yarn-error.log*
 .env
 /backend/.env*.local
 /backend/.env
+/frontend/.env*.local
+/frontend/.env
 
 # vercel
 .vercel
@@ -43,3 +52,5 @@ yarn-error.log*
 next-env.d.ts
 /backend/*.tsbuildinfo
 /backend/next-env.d.ts
+/frontend/*.tsbuildinfo
+/frontend/next-env.d.ts
