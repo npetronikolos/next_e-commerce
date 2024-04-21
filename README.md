@@ -1,7 +1,6 @@
 Full Stack E-Commerce + Dashboard & CMS: Code with Antonio.
 
-Next step Frondend and change it to graphql.
-
+Next step Frontend and change it to graphql.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
