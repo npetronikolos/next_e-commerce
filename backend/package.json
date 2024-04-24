@@ -1,5 +1,5 @@
 {
-  "name": "next_e-commerce",
+  "name": "next_e-commerce ADMIN",
   "author": "Full Stack E-Commerce + Dashboard & CMS: Code with Antonio.",
   "version": "0.1.0",
   "private": true,
@@ -32,7 +32,7 @@
     "autoprefixer": "10.4.19",
     "axios": "^1.6.8",
     "class-variance-authority": "^0.7.0",
-    "clsx": "^2.1.0",
+    "clsx": "^2.1.1",
     "cmdk": "^1.0.0",
     "date-fns": "^3.6.0",
     "lucide-react": "^0.363.0",
